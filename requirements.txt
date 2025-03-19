@@ -1,0 +1,8 @@
+openai==0.28 # Open AI Large Language Model
+tiktoken
+chromadb==0.4.4 # Chroma vector Database
+langchain==0.0.249 # Langchain framework
+flask
+GitPython
+python-dotenv # To access secreate keys
+
